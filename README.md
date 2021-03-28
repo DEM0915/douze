@@ -1,19 +1,21 @@
-#Minimalism
-###Guidance of Consumerism
+# Minimalism
+### Guidance of Consumerism
 
 <img align="center" src="Barbara.png" width="100%"/>
 
 
 
-###Develop Tools
+### Develop Tools
 
 * Xcode version 7.2.1
 
 * openFrameworks 0.9.3
 
-###Platform
+### Platform
+
 * OS X El Capitan
 
-###Inspiration
+### Inspiration
+
 * Barbara Kruger
 * Simon Pont
